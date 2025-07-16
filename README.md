@@ -7,8 +7,7 @@ This website showcases my skills, projects, certifications, and a bit about who 
 
 ## 📌 Live Preview
 
-🔗 [Visit Website](https://your-portfolio-link.netlify.app)  
-*(Replace this with your actual deployed link)*
+🔗 [Visit Website](https://your-portfolio-link.netlify.app)
 
 ---
 
