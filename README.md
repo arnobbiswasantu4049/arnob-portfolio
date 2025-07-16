@@ -35,7 +35,7 @@ This website showcases my skills, projects, certifications, and a bit about who 
 ## 🧑‍💻 About Me
 
 > I'm a Computer Science student passionate about software development and real-world problem solving. I started my journey with **C** and **Java**, currently diving into **MERN Stack Web Development**.  
-> I enjoy building practical projects like my TimeBank Java app, and always look forward to learning and collaborating.
+> I enjoy building practical projects like My TimeBank Java App, My PDF Reader, Travel-Hive Web Demo and always look forward to learning and collaborating.
 
 ---
 
@@ -58,7 +58,7 @@ This website showcases my skills, projects, certifications, and a bit about who 
 
 ## 📸 Preview Screenshot
 
-![Portfolio Preview](certificates/preview.jpg)  
+![Portfolio Preview](https://i.imgur.com/4tf6g14.jpeg)  
 *(Optional – add a screenshot of your site if you like)*
 
 ---
