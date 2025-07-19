@@ -7,7 +7,7 @@ This website showcases my skills, projects, certifications, and a bit about who 
 
 ## 📌 Live Preview
 
-🔗 [Visit Website](https://your-portfolio-link.netlify.app)
+🔗 [Visit Website](https://stirring-cannoli-07b464.netlify.app/)
 
 ---
 
