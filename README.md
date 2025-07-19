@@ -57,8 +57,7 @@ This website showcases my skills, projects, certifications, and a bit about who 
 
 ## 📸 Preview Screenshot
 
-![Portfolio Preview](https://i.imgur.com/4tf6g14.jpeg)  
-*(Optional – add a screenshot of your site if you like)*
+![Portfolio Preview](https://i.imgur.com/4tf6g14.jpeg)
 
 ---
 
